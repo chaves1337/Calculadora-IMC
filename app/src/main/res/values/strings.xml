@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Calculadora IMC</string>
+    <string name="nomeTexto">Nome: </string>
+    <string name="alturaTexto">Altura: </string>
+    <string name="pesoTexto">Peso: </string>
+    <string name="resultadoTexto">Seu IMC é: </string>
+    <string name="imagemIMC">Imagem de referencia sobre o imc</string>
 </resources>
